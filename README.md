@@ -181,7 +181,7 @@ Seperti yang dapat Anda lihat, anotasi @Preview menggunakan parameter yang diseb
 
 Android Studio secara default menggunakan tema terang untuk editor sehingga perbedaan antara showBackground = true dan showBackground = false mungkin akan sulit dilihat. Namun, seperti inilah perbedaan tampilan dengan tema gelap. Perhatikan latar belakang putih pada gambar yang disetel ke true.
 
-Gambar ini menampilkan teks "Hello Android" dalam font hitam dengan latar belakang putih di bagian atas, dan "Hello Android" dalam font hitam dengan latar belakang gelap di bagian bawah.
+Gambar ini menampilkan teks "Perkenalkan Nama Saya, Hendro Gunawan!" dalam font hitam dengan latar belakang putih di bagian atas, dan "Perkenalkan Nama Saya, Hendro Gunawan!" dalam font hitam dengan latar belakang gelap di bagian bawah.
 
 Ubah fungsi DefaultPreview() dengan nama Anda. Kemudian, build ulang dan lihat kartu ucapan yang dipersonalisasi.
 
