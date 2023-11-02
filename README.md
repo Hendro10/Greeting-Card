@@ -367,3 +367,20 @@ Ringkasan project
 Membuat project
 Menambahkan kode dari template
 Jetpack Compose
+
+10. Mendapatkan Kode Solusi
+Guna mendownload kode untuk codelab yang sudah selesai, Anda dapat mendownloadnya di https://drive.google.com/file/d/1-1G15G-7VEYlcrvp7W3al4E_G-nSRFMe/view?usp=sharing dengna ekstensi RAR kemudian mengekstraknya dan membukanya di Android Studio.
+Membuka project di Android Studio
+Mulai Android Studio.
+Di jendela Welcome to Android Studio, klik Open.
+4711318ba1db18a2.png
+
+Catatan: Jika Android Studio sudah terbuka, pilih opsi menu File > Open.
+
+e400aad673cc7e28.png
+
+Di file browser, buka lokasi folder project yang telah diekstrak (kemungkinan ada di folder Downloads).
+Klik dua kali pada folder project tersebut.
+Tunggu Android Studio membuka project.
+Klik tombol Run 1b472ca0dcd0297b.png untuk membangun dan menjalankan aplikasi. Pastikan aplikasi dibangun seperti yang diharapkan.
+ 
